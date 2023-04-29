@@ -1,5 +1,5 @@
 {
-  "alias": "puppetron.now.sh",
+  "alias": "pupetron.vercel.app",
   "version": 2,
   "public": true,
   "rewrites": [
