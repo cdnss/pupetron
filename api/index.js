@@ -155,6 +155,7 @@ async function handler(req, res) {
         console.log('🚀 Launch browser!');
         const config = {
           ignoreHTTPSErrors: true,
+          ignoreDefaultArgs: ['--disable-extensions'],
           ...(isDev
             ? {
                 headless: false,
