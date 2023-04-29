@@ -6,7 +6,7 @@ const { URL } = require('url');
 const chrome = require('chrome-aws-lambda');
 const puppeteer = require('puppeteer-core');
 
-const { verify } = require('hcaptcha');
+
 
 const isDev =
   NOW_REGION === 'dev1' ||
