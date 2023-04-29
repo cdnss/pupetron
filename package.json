@@ -3,7 +3,7 @@
   "version": "6.0.0",
   "license": "MIT",
   "dependencies": {
-    "chrome-aws-lambda": "~3.1.1",
+    "chrome-aws-lambda": "10.1.0",
     "hcaptcha": "0.0.2",
     "jimp": "~0.12.1",
     "lru-cache": "~5.1.1",
